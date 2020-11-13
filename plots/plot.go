@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/aquilax/go-perlin"
-	eif "github.com/oskanberg/eif-go/float64"
+	"github.com/oskanberg/eif-go"
 	"gonum.org/v1/plot"
 	"gonum.org/v1/plot/palette/moreland"
 	"gonum.org/v1/plot/plotter"
